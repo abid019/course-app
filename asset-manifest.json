@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/course-app/static/css/main.9f9324e0.css",
+    "main.js": "/course-app/static/js/main.e41a3b96.js",
+    "static/media/gate.png": "/course-app/static/media/gate.0e1a0712e64808a3f033.png",
+    "static/media/audito.png": "/course-app/static/media/audito.e6d93e22c27008df38d5.png",
+    "static/media/logo.png": "/course-app/static/media/logo.6a2ce9542b920a9c4001.png",
+    "static/media/frame.png": "/course-app/static/media/frame.3a238e5f26d676376e1d.png",
+    "index.html": "/course-app/index.html",
+    "main.9f9324e0.css.map": "/course-app/static/css/main.9f9324e0.css.map",
+    "main.e41a3b96.js.map": "/course-app/static/js/main.e41a3b96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f9324e0.css",
+    "static/js/main.e41a3b96.js"
+  ]
+}
